@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\KinectInputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KinectInputManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\ObstacleMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ObstacleMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\ObstaclePool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ObstaclePool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\BackgroundScroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackgroundScroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CoinPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoinPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CoinMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoinMove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\Coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObstacleMove.cs",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\ObstacleMove.cs",
+              "RelativeDocumentMoniker": "ObstacleMove.cs",
+              "ToolTip": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\ObstacleMove.cs",
+              "RelativeToolTip": "ObstacleMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:47:56.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObstaclePool.cs",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\ObstaclePool.cs",
+              "RelativeDocumentMoniker": "ObstaclePool.cs",
+              "ToolTip": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\ObstaclePool.cs",
+              "RelativeToolTip": "ObstaclePool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:47:53.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinPool.cs",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CoinPool.cs",
+              "RelativeDocumentMoniker": "CoinPool.cs",
+              "ToolTip": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CoinPool.cs",
+              "RelativeToolTip": "CoinPool.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:46:58.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CoinMove.cs",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CoinMove.cs",
+              "RelativeDocumentMoniker": "CoinMove.cs",
+              "ToolTip": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CoinMove.cs",
+              "RelativeToolTip": "CoinMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:45:26.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\Coin.cs",
+              "RelativeDocumentMoniker": "Coin.cs",
+              "ToolTip": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\Coin.cs",
+              "RelativeToolTip": "Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:45:25.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BackgroundScroller.cs",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\BackgroundScroller.cs",
+              "RelativeDocumentMoniker": "BackgroundScroller.cs",
+              "ToolTip": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\BackgroundScroller.cs",
+              "RelativeToolTip": "BackgroundScroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:45:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KinectInputManager.cs",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\KinectInputManager.cs",
+              "RelativeDocumentMoniker": "KinectInputManager.cs",
+              "ToolTip": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\KinectInputManager.cs",
+              "RelativeToolTip": "KinectInputManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:44:12.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "CameraFollow.cs",
+              "ToolTip": "C:\\Users\\\uC804\uC815\uD604\\Downloads\\My project\\My project\\Assets\\Scripts\\CS \uD30C\uC77C\\CameraFollow.cs",
+              "RelativeToolTip": "CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:43:59.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
