@@ -185,7 +185,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -2
-  m_Sprite: {fileID: 21300000, guid: 9efd7c6f03bc0c24b94f1755a33a4e41, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 48c0074534eaa6d4a96ab1a0b05e49dc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -202,8 +202,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 77725191}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.35, y: -0.39, z: 0}
-  m_LocalScale: {x: 20, y: 0.73873776, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 8
@@ -235,11 +235,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4984a74e121850341bab277a3085bf29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  obstaclePrefab: {fileID: 1027885766492052, guid: 393440c9b72be664d8c07223d61d6c4c,
+  jumpObstaclePrefab: {fileID: 1027885766492052, guid: 393440c9b72be664d8c07223d61d6c4c,
+    type: 2}
+  slideObstaclePrefab: {fileID: 1573578126076122, guid: 3828c6b5a2ddbee40ac40a61007fb2cc,
     type: 2}
   spawnInterval: 3
   spawnX: 10
-  spawnY: -2.5
+  baseSpawnY: -2.5
+  slideObstacleCeilingY: 3
 --- !u!4 &262784008
 Transform:
   m_ObjectHideFlags: 0
@@ -588,6 +591,8 @@ MonoBehaviour:
     type: 2}
   magneticPrefab: {fileID: 1801777422708802, guid: 16352f7355323d846960e82691134208,
     type: 2}
+  shieldItemPrefab: {fileID: 1256567575630664, guid: 80f62ace6d284c3469d804bf289009e1,
+    type: 2}
   spawnInterval: 5
   spawnX: 10
   spawnY: -1
@@ -753,18 +758,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.50977993}
+  m_Offset: {x: -0.09505844, y: -0.18230355}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 10.24, y: 10.24}
+    oldSize: {x: 4.57, y: 5.36}
     newSize: {x: 10.24, y: 10.24}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 10.24, y: 9.22044}
+  m_Size: {x: 4.2391405, y: 5.141651}
   m_EdgeRadius: 0
 --- !u!212 &929928051
 SpriteRenderer:
@@ -801,8 +806,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: f48c7633b341cf440b5b65796ffd85c5, type: 3}
-  m_Color: {r: 0.71201074, g: 0.14951938, b: 0.9056604, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 67ca5a31ac2c96d4a944245e163a04f8, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -818,8 +823,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 929928048}
   m_LocalRotation: {x: -0.00001616654, y: -0.01697446, z: -0.0075785727, w: 0.99982727}
-  m_LocalPosition: {x: -5.51, y: -1.19, z: -0}
-  m_LocalScale: {x: 0.2646432, y: 0.25977355, z: 1}
+  m_LocalPosition: {x: -5.22, y: -1.33, z: 0.02}
+  m_LocalScale: {x: 0.63279015, y: 0.49998137, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -840,15 +845,15 @@ MonoBehaviour:
   jumpForce: 10
   slideDuration: 0.7
   baseUpdateRate: 5
-  jumpOffset: 0.02
-  slideOffset: 0.06
-  standUpOffset: 0.08
-  kneeLiftOffset: 0.05
+  jumpOffset: 0.08
+  slideOffset: 0.13
+  standUpOffset: 0.05
+  kneeLiftOffset: 0.04
   gameOverUI: {fileID: 1254538103}
   scoreManager: {fileID: 571424379}
   isBoosted: 0
-  jumpSound: {fileID: 8300000, guid: 3427ece4d2006fb4987bc800bba24d12, type: 3}
-  slideSound: {fileID: 8300000, guid: 39835ba9707355449b866622bf451e1c, type: 3}
+  jumpSound: {fileID: 8300000, guid: 13dd048bf8c7fe741bc7b1a0815c29ea, type: 3}
+  slideSound: {fileID: 8300000, guid: 13dd048bf8c7fe741bc7b1a0815c29ea, type: 3}
   itemSound: {fileID: 8300000, guid: ff9887cab1dd94146bdaae7e03be276d, type: 3}
   gameOverSound: {fileID: 8300000, guid: 5e16bf28185c63d4094e46bef74d43e4, type: 3}
   isInvincible: 0
@@ -857,6 +862,9 @@ MonoBehaviour:
     type: 2}
   scorePopup: {fileID: 1194460987213646, guid: 068027f6a39489d4584d4812bcfa9f65, type: 2}
   itemSparkEffect: {fileID: 1984923774024832, guid: f9202d194d64ac14eb98db437b88ec30,
+    type: 2}
+  hasShield: 0
+  shieldEffectPrefab: {fileID: 1641427077428704, guid: f57a3cd9bf8ceda4ba1977e4332b3b1f,
     type: 2}
 --- !u!82 &929928054
 AudioSource:
@@ -877,7 +885,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 0.91936874
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
